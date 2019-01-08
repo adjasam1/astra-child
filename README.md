@@ -15,19 +15,18 @@ Récupération struture de base du thème enfant astra-child
 Import en format .zip du thème enfant Astra sur Wordpress
 
 Modification des fichiers .css et .php
+
 style.css pour relier astra-child à son thème parent
+
 functions.php pour prendre en compte la feuille de style du thème enfant
 
 ### Utilisation :
 
 Personnalisation en fonction de la charte graphique
 
-functions.php
-Définition de la palette choisie
+Dans functions.php pour la éfinition de la palette choisie
 
-style.css
-Ajout des classes correspondant aux couleurs des textes et des fonds
-Ajout d'une classe sponsor dédiée à l'affichage des logos des partenanires sur la page accueil
+Dans style.css pour l'ajout des classes correspondant aux couleurs des textes et des fonds et l'ajout d'une classe sponsor dédiée à l'affichage des logos des partenanires sur la page accueil
 
 
 ### Ressources :
