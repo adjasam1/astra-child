@@ -37,5 +37,15 @@ https://fr.wordpress.org/themes/astra/
 Thème Enfant Astra
 https://github.com/pehaa/astra-child
 
+Aide déclaration du thème enfant dans fichier style.css
+https://developer.wordpress.org/themes/advanced-topics/child-themes/#2-create-a-stylesheet-style-css
+
+Aide chargement des fichiers style du thème parent et enfant (functions.php)
+https://developer.wordpress.org/themes/advanced-topics/child-themes/#3-enqueue-stylesheet
+
+Personnalisation palette des couleurs (fichiers functions.php et style.css)
+https://wordpress.org/gutenberg/handbook/designers-developers/developers/themes/theme-support/
+https://www.gregoirenoyelle.com/creer-couleurs-sur-mesure-editeur-moderne-wordpress-gutenberg/
+
 lien charte graphique
 https://company-45185.frontify.com/d/fVRpz7xGUu30/blog-trotter-style-guide
